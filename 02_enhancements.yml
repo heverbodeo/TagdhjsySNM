@@ -3,9 +3,6 @@ description: Suggest improvements for any existing functionality within the firm
 body:
   - type: markdown
     attributes:
-      value: |
-        Thank you for taking the time to fill out an issue. This template is meant for feature requests and improvements to already existing functionality.
-  - type: textarea
     id: proposal
     attributes:
       label: "Describe the enhancement you're suggesting."
